@@ -1,0 +1,80 @@
+html{
+    background-color: #ffffff;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.home body{
+    background-color: #681864;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.main{
+    background-color: #24347c;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.home p{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10%;
+}
+
+.home img{
+    width: 70%;
+    height: 70%;
+    padding-left: 10%;
+    padding-bottom: 25%;
+}
+
+.nav li{
+    display: inline-block;
+    margin-right: 1rem;
+    background-color: #cc2eb7;
+}
+
+.nav li a:hover {
+    background-color: #36c777;
+    color: white;
+}
+
+.nav{
+    background-color: #cc2eb7;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.homenav{
+    background-color: #cc2eb7;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.homenav li{
+    display: inline-block;
+    margin-right: 1rem;
+    background-color: #cc2eb7;
+}
+
+.homenav li a:hover {
+    background-color: #403a5f;
+    color: white;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
